@@ -45,7 +45,7 @@ def win():
     button_list = [b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10,b11]
     #change the color of buttons
     for button in button_list:
-        button.config(bg='violet')
+        button.config(bg='light blue')
 
 
 #function for clicking buttons
